@@ -433,7 +433,7 @@ print(r)}
 # Compare graphically the observed features with their posterior predictive 
 # distribution obtained under our model
 
-lab<-c("density","triangle_freq","transitivity","assortativity","mean_eigencentrality","ave_path_lenght","mean_degree","sd_degree")
+lab <- c("density","triangle_freq","transitivity","assortativity","mean_eigencentrality","ave_path_lenght","mean_degree","sd_degree")
 
 par(mfrow=c(2,4))
 for (f in 1:8){
