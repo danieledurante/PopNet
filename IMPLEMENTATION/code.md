@@ -439,4 +439,4 @@ par(mfrow=c(2,4))
 for (f in 1:8){
 plot(density(features_pre[f,(burn+1):N_samp]),main=paste(lab[f]))
 points(features_obs[f,],rep(0,n))}
-``
+```
