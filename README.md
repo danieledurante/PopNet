@@ -4,4 +4,4 @@ This repository is associated with the article: [Durante, Dunson and Vogelstein 
 
 The analyses are performed with a **MacBook Pro (OS X El Capitan, version 10.11.6)**, using a `R` version **3.6.3**.
 
-**NOTE**: All the materials are meant to provide a **basic `R` implementation**, mostly meant to offer a clear understanding of the computational routines and steps associated with the proposed model. Optimized computational routines relying on C++ coding can be easily considered and may be required if the focus is on much larger networks.
+**NOTE**: All the materials are meant to provide a **basic `R` implementation**, mostly aimed at offering a clear understanding of the computational routines and steps associated with the proposed model. Optimized computational routines relying on C++ coding can be easily considered and may be required if the focus is on much larger networks.
