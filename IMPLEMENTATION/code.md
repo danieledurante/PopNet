@@ -104,7 +104,7 @@ bar_X <- array(0,c(V,R,H,N_sampl))
 
 #-----------------------------------------------------------------------------#
 # Shared behavior in matrix form
-Z<-array(0,c(V,V,N_sampl))
+Z <- array(0,c(V,V,N_sampl))
 
 #-----------------------------------------------------------------------------#
 # Weights for complexity learning with inv_Lambda[h,r,]=1/lambda_r^{(h)}
